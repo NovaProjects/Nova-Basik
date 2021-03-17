@@ -1,0 +1,6 @@
+{
+    "TOKEN": "TOKENHERE",
+    "MONGO": "MONGOURLHERE",
+    "PREFIX": "PREFIXHERE",
+    "DEVELOPERS": []
+}

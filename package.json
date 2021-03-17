@@ -1,0 +1,25 @@
+{
+  "name": "nova-basik",
+  "version": "1.0.0",
+  "description": "a basik discord bot for basik people",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanSza/nova-basik.git"
+  },
+  "author": "EmanSza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmanSza/nova-basik/issues"
+  },
+  "homepage": "https://github.com/EmanSza/nova-basik#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.15"
+  }
+}
